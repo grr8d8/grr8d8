@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @grr8d8
-- 👀 I’m interested in creating a "git" type of app on my computer. I have currently wasted over 10 hours every single day for over 2 weeks and still 
-can't get any git program to install.  They all stop at some point.  I would in particular like to have DevTools front end but tried several times and didn't get it. 
-The only one keft to try is "git ubuntu"  I have the files but I can't imagine it being any different than the rest.  I open the read me MD foilder and they always 
-pretty much nothing despite the fact that there should be instuctions on "how" to install it.  I just get 3000 lines of code - some of which I understand -
-(anything I have to enter such as ID, module numbers, etc) can't be done as I don't know which things in brackets need information and which don't.  The instruction
-come on several different pages so have absolutetely zero idea which page to start with. If I EVER needed an "out of the box" program, it is this one.  
+- 👀 I’m interested in creating a "git" type of app on my computer. I have currently wasted over 10 hours every single day for over 2 weeks and still nothing.  
+I have finally figured out what some of the troubles are. The biggest issue is that when I tried to put together a very simple git program in Ubuntu 20.04 I was able to accomplish it. So, I figured I was ready to take the next step of trying to put together a bit client on my computer.  Then my computer broke.  So, when my new computer arrived, I decided to install one of the interim operting systems.  Unfortunately, I did not know that it installed without the z component. It had to be selected. Next thing I did not know was that there was a way to enter commands into the terminal as practice to see if it would work or not.  So, in all my attempts to install many different git programs, I found my computer chock full of all kinds of stu8ff that I don't know how to remove.  Then I find out the biggest problem is that most of these programs require a gnome component that can't be installed with this particular version of Ubuntu.  So, yesterday, I wiped my hard drive, reinstalled 21.01 and upgraded 3 months early to 22.04 so should now be able to finally practice and learn. 
+ 
 - 🌱 I’m currently learning that I am soooo incredibly stupid that I can't even install a git program on my computer despite having programmed linux for almost 20 years.  
 
 - 💞️ I’m looking to collaborate on ..... I wouldn't even try at this point.  I thought coming to github would be the answer.  Not so far.  
